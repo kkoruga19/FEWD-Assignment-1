@@ -1,0 +1,84 @@
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="UTF-8">
+
+        <title>Assignment 2</title>
+          <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+           <link rel="stylesheet" href="css/normalize.css" media="screen" type="text/css" />
+      </head>
+      <body>
+
+
+      <div class="flex-container1">
+
+        <h2 class="logo1">
+         Relaxr </h2>
+        	
+           <span class=breakbutton>
+              Get piece of mind with a single tap
+        </span>
+
+         <span class=yellowbutton> 
+           <a href="#" class="yellowbutton">
+             Get it Now
+             </a></span>
+
+            </div>
+
+        		
+
+      <div class="flex-container2">
+        		<span class=header> Benefits </span>
+            <br>
+            <span class=section2>
+      	The perfect personal assistant. Relaxr does your job for you so you can enjoy life as it is meant to be.
+
+      	<ul>
+      		<li>Schedule meetings for you</li>
+      		<li>Excel automation to complete your work for you</li>
+      		<li>Respond to emails on your behalf</li>
+      		<li>Does all your work for you with our revolutionary Al technology</li>
+          </ul>
+          </span>
+      </div></div>
+
+      <div class="flex-container3">
+        	<div class="container">
+      	<blockquote>
+      		<span class=quote>"Relaxr changed my life. I've been able <br> to travel the world, spend limited time <br> working and my boss keeps thanking <br> me for crusing work"</span>
+      		<span class=saidquote> <h2> -Amanda, Intuit </h2></span>
+      	</blockquote>
+      </div></div>
+
+
+      <div class="flex-container4">
+        <a href="#" class="button">Sign Up Now!</a>
+        		
+      </div>
+
+
+    <footer class="flex-container5">
+
+        <h2 class="logo2">
+         Relaxr
+        </h2>
+
+    <div class="social">
+        	<img src="https://raw.git.generalassemb.ly/vicero/FEWD-Course-Materials/master/Session-3/assignment-2/images/twitter.png" alt="tweet">
+      
+
+      	<img src="https://raw.git.generalassemb.ly/vicero/FEWD-Course-Materials/master/Session-3/assignment-2/images/facebook.png" alt="fb">
+   </div>
+
+         <span class="section5">
+       	Copyright 2015. Relaxr
+          </span>
+        
+       </footer>
+        		
+      </div>
+
+
+      </body>
+      </html>
